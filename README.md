@@ -62,11 +62,12 @@ Not my own private repository
 - Wrote code to collect, clean, and transform data to finetune on and wrote code for evaluation metrics on outputs
 - Worked in Python with TensorFlow, PyTorch, WandDB, Hydra, and other ML libraries and data pipelines
 
-## work not in repositories
+## work not in Github repositories
 For various reasons, there is code I've done that hasn't been uploaded to my GitHub. This is my attempt to explain the context behind what the code did and what languages it used.
 - Pacman Game: Coded a Pac-man game in Python for my introductory AI class. Used a version of the mini-max algorithm.
 - CSCI356: Learned C and Assembly for x86 architecture to build simulations of various low-level objects and features for computers, like caches and memory allocation
-- CSCI
+- Self-initiated project "Peersdom": An app I built in high school that faciliated peer tutoring. Coded front-end using Ionic framework (TypeScript, Angular, HTML, CSS, JS) and back-end using Java and SQL. The backend was using Google Cloud Services and Firebase for RDS and authentication services, while images were uploaded to S3 buckets. First major coding experience that got me introduced to CI/CD and software design. Code is stored on GitLab, not GitHub. 
+  
 
 
 
