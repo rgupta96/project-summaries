@@ -46,6 +46,12 @@ Not my own private repository
 - Implemented Hidden Markov Models, assuming Gaussian distributions, to analyze past financial stock return for selected tech stocks
 - Used Python, NumPy and an HMM tool-kit
 
+## tstdatascience
+Not my own private repository
+- This repository was for my CSCI401 (Computer Science Capstone Project) team's code
+- Completed a data analytics project as my capstone project for Chris Mattmann, the CTIO of NASA JPL
+- Helped code analytics tools in Python, using Pandas, Top2Vec, spaCy, and Tika, in addition to heavy Excel work
+
 ## vlnce-finetune
 Not my own private repository
 - Repository belongs to my research advisor
@@ -56,7 +62,7 @@ Not my own private repository
 - Wrote code to collect, clean, and transform data to finetune on and wrote code for evaluation metrics on outputs
 - Worked in Python with TensorFlow, PyTorch, WandDB, Hydra, and other ML libraries and data pipelines
 
-
+TODO: add 
 
 
 
