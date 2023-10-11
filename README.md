@@ -46,6 +46,12 @@ Not my own private repository
 - Implemented Hidden Markov Models, assuming Gaussian distributions, to analyze past financial stock return for selected tech stocks
 - Used Python, NumPy and an HMM tool-kit
 
+## USCRecApp
+Not my own private repository
+- Contains code for the final project, an Android app gym spot reservation app, in my software engineering class
+- Coded the entire front-end in Java on Android Studio
+- Wrote code that connected the front-end to the back-end through APIs using okhttp3
+
 ## tstdatascience
 Not my own private repository
 - This repository was for my CSCI401 (Computer Science Capstone Project) team's code
