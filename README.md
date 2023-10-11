@@ -62,7 +62,11 @@ Not my own private repository
 - Wrote code to collect, clean, and transform data to finetune on and wrote code for evaluation metrics on outputs
 - Worked in Python with TensorFlow, PyTorch, WandDB, Hydra, and other ML libraries and data pipelines
 
-TODO: add 
+## work not in repositories
+For various reasons, there is code I've done that hasn't been uploaded to my GitHub. This is my attempt to explain the context behind what the code did and what languages it used.
+- Pacman Game: Coded a Pac-man game in Python for my introductory AI class. Used a version of the mini-max algorithm.
+- CSCI356: Learned C and Assembly for x86 architecture to build simulations of various low-level objects and features for computers, like caches and memory allocation
+- CSCI
 
 
 
